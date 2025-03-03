@@ -1,2 +1,1 @@
-# mine_test
-just mine project
+print("Hello World")
